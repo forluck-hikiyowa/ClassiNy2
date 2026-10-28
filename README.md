@@ -33,6 +33,7 @@ Winny全盛の時代に『メールの振り分けと同じ感覚で、大量の
 
 
 👉［図解でわかりやすい！『ClassiNy2』の詳しい使い方マニュアルを見る］(https://laser-raven-9cb.notion.site/ClassiNy2-edf1e2d6a89882229c7781e0b5e22b31)
+👉 [図解でわかりやすい！『ClassiNy2』の詳しいマニュアルを見る](https://laser-raven-9cb.notion.site/ClassiNy2-edf1e2d6a89882229c7781e0b5e22b31)
 
  　
 ## 📥 ダウンロード
