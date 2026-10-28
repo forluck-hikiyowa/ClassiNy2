@@ -31,7 +31,7 @@ Winny全盛の時代に『メールの振り分けと同じ感覚で、大量の
   
   設定した振り分け条件をCSVファイルとして書き出し・読み込みが可能です。大量の条件を一括で登録したい場合、使い慣れたExcelやテキストエディタを使って効率よく編集できます。
 
-　詳しい使い方はこちらから👉 https://laser-raven-9cb.notion.site/ClassiNy2-edf1e2d6a89882229c7781e0b5e22b31
+　　図解でわかりやすい！『ClassiNy2』の詳しい使い方マニュアルを見る👉 https://laser-raven-9cb.notion.site/ClassiNy2-edf1e2d6a89882229c7781e0b5e22b31
 
  　
 ## 📥 ダウンロード
