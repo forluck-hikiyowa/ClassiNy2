@@ -40,7 +40,7 @@ Winny全盛の時代に『メールの振り分けと同じ感覚で、大量の
 Vector（ベクター）のメンテナンスに伴い、このページで最新版を配布しています。
 （さっき見たらVectorサイト復旧してました💦）
 
-右側の「Release」欄からZIPファイルをダウンロードしてください。
+右側の [Release欄](https://github.com/forluck-hikiyowa/ClassiNy2/releases) からZIPファイルをダウンロードしてください。
 
 　
 ## 💻 動作環境／利用条件・ライセンス
