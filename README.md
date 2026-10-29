@@ -54,6 +54,7 @@ Vector（ベクター）のメンテナンスに伴い、このページで最�
 - 作者は本アプリの利用により生じた損害に関して、一切の責任を負いません
 
 <br><br>
+
 ---
 
 <div align="center">ClassiNy2  ©  2003–2026 forluckヒキ弱  All Rights Reserved.</div>
