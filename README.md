@@ -4,7 +4,8 @@
 
 Winny全盛の時代に『メールの振り分けと同じ感覚で、大量のファイルもサクッと振り分け』のコンセプトでリリースされた ClassiNy の正統後継版、それが ClassiNy2 です。現代のPC環境に合わせてゼロから構築し直し、丸っきり別物として正統進化させました！
 
-　
+<br>
+
 ## 🚀 ご紹介
 
 - **シンプル設定・直感的な簡単操作**
@@ -34,15 +35,17 @@ Winny全盛の時代に『メールの振り分けと同じ感覚で、大量の
 
 👉 [図解でわかりやすい！『ClassiNy2』の詳しいマニュアルを見る](https://laser-raven-9cb.notion.site/ClassiNy2-edf1e2d6a89882229c7781e0b5e22b31)
 
- 　
+<br>
+
 ## 📥 ダウンロード
 
 Vector（ベクター）のメンテナンスに伴い、このページで最新版を配布しています。
-（さっき見たらVectorサイト復旧してました💦）
+（さっき見たらVectorサイト復旧してましたが💦）
 
 右側の [Release欄](https://github.com/forluck-hikiyowa/ClassiNy2/releases) からZIPファイルをダウンロードしてください。
 
-　
+<br>
+
 ## 💻 動作環境／利用条件・ライセンス
 - Windows 11 でのみ動作確認済み（Windows 10 でも問題なく動作すると思われます）
 - 著作権は作者（forluckヒキ弱：forluck777sub@gmail.com）に帰属します
@@ -53,4 +56,4 @@ Vector（ベクター）のメンテナンスに伴い、このページで最�
 <br><br>
 ---
 
-ClassiNy2  ©  2003–2026 forluckヒキ弱  All Rights Reserved.
+<div align="center">ClassiNy2  ©  2003–2026 forluckヒキ弱  All Rights Reserved.</div>
