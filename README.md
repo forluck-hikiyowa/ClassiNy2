@@ -41,9 +41,6 @@ Winny全盛の時代に『メールの振り分けと同じ感覚で、大量の
 
 ## 📥 ダウンロード
 
-Vector（ベクター）のメンテナンスに伴い、このページで最新版を配布しています。
-（さっき見たらVectorサイト復旧してましたが💦）
-
 右側の [Release欄](https://github.com/forluck-hikiyowa/ClassiNy2/releases) からZIPファイルをダウンロードしてください。
 
 <br>
