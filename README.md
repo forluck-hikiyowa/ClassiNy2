@@ -41,7 +41,7 @@ Winny全盛の時代に『メールの振り分けと同じ感覚で、大量の
 
 ## 📥 ダウンロード
 
-右側の [Release欄](https://github.com/forluck-hikiyowa/ClassiNy2/releases) からZIPファイルをダウンロードしてください。
+右側の [Release](https://github.com/forluck-hikiyowa/ClassiNy2/releases) 欄からZIPファイルをダウンロードしてください。
 
 <br>
 
